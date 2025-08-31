@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{bio3.jpeg}{}{150}{200}{}
-I am a 4th year Ph.D. student in the Department of [https://orfe.princeton.edu/home Operations Research and Financial Engineering] at Princeton University. I am fortunate and grateful to be supervised by [https://mykhaylo.princeton.edu/ Prof. Mykhaylo Shkolnikov] and co-supervised by [https://sites.google.com/view/sergey-nadtochiy?pli=1 Prof. Sergey Nadtochiy]. My research is at the intersection of stochastic analysis, partial differential equations and finance.
+I am a 5th year Ph.D. student in the Department of [https://orfe.princeton.edu/home Operations Research and Financial Engineering] at Princeton University. I am fortunate and grateful to be supervised by [https://mykhaylo.princeton.edu/ Prof. Mykhaylo Shkolnikov] and co-supervised by [https://sites.google.com/view/sergey-nadtochiy?pli=1 Prof. Sergey Nadtochiy]. My research touches upon stochastic analysis, partial differential equations, mathematical physics, mathematical finance, and machine learning. More specifically, I use probabilistic methods and interacting particle systems to analyze and solve problems that come from the above areas.
 
 I received my Bachelor's degree in Mathematics from [https://www.fudan.edu.cn/en/ Fudan University] in 2021.
 
@@ -11,8 +11,10 @@ I received my Bachelor's degree in Mathematics from [https://www.fudan.edu.cn/en
 
 == Publications and Preprints
 
-- Guo, Y., Nadtochiy, S., Shkolnikov, M. (2024). [https://link.springer.com/article/10.1007/s00205-024-02026-3 Stefan problem with surface tension: uniqueness of physical solutions under radial symmetry]. /Archive for Rational Mechanics and Analysis/. *248*, article 90.\n
+- Zhao, H., Chen, H., Guo, Y., Winata, G. I., Ou, T., Huang, Z., Yao, D., Tang, W. (2025). [https://arxiv.org/abs/2503.11720 Fine-Tuning Diffusion Generative Models via Rich Preference Optimization]. Submitted.\n 
+- Guo, Y., Yan, Q. (2025). [https://arxiv.org/abs/2505.18448 Particle Systems with Local Interactions via Hitting Times and Cascades on Graphs]. Submitted.\n
 - Guo, Y., Nadtochiy, S., Shkolnikov, M. (2024). [https://arxiv.org/abs/2410.15249 Cascade equation for the discontinuities in the Stefan problem with surface tension]. Submitted.\n
+- Guo, Y., Nadtochiy, S., Shkolnikov, M. (2024). [https://link.springer.com/article/10.1007/s00205-024-02026-3 Stefan problem with surface tension: uniqueness of physical solutions under radial symmetry]. /Archive for Rational Mechanics and Analysis/. *248*, article 90.\n
 
 
 == Academic Services
@@ -20,12 +22,15 @@ I received my Bachelor's degree in Mathematics from [https://www.fudan.edu.cn/en
 - (Co-)Organizer of Graduate FinMath Seminar at Princeton ORFE
 
 == Talks
+- 11/2024 [https://probability.commons.gc.cuny.edu/23rd-northeast-probability-seminar/ 23rd Northeast Probability Seminar]
 - 06/2023 [https://www.imsi.institute/videos/probabilistic-solutions-to-3d-stefan-gibbs-thomson-problems-under-radial-symmetry-regularity-and-uniqueness/ IMSI Workshop: Laplacian Growth Models, Chicago]
 - 06/2023 [https://mathweb.ucsd.edu/~williams/seminars/stoch/stochsys.html Stochastic Systems Seminar at UCSD, via Zoom]
 
 == Teaching
 
 Teaching Assistant: \n
+- Fall 2025: ORF 309 - Probability and Stochastic Systems (Head TA)\n
+- Spring 2025: ORF 309 - Probability and Stochastic Systems (Head TA)\n
 - Fall 2024: ORF 309 - Probability and Stochastic Systems (Head TA)\n
 - Spring 2024: ORF 309 - Probability and Stochastic Systems (Head TA)\n
 - Fall 2023: ORF 309 - Probability and Stochastic Systems \n
